@@ -11,25 +11,27 @@
 ## Диаграммы
 
 ### Диаграмма вариантов использования
-![Диаграмма вариантов использования](/images/use_case.jpg)
+
+<img src="/images/use_case.jpg" alt="usecase" width="300">
+
 ### Диаграмма последовательности
 Диаграмма последовательности для процесса заказа еды через приложение.
-
-![Диаграмма последовательности](/images/sequence.jpg)
+<img src="/images/sequence.jpg" alt="sequence" width="500">
 
 ### Диаграмма состояний
+
 Диаграмма состояний для заказа.
 
-![Диаграмма состояний](/images/state.jpg)
+<img src="/images/state.jpg" alt="state" width="500">
 
 ### Диаграмма деятельности
 Диаграмма деятельности для описания процесса обработки заказа системой.
-
-![Диаграмма деятельности](/images/activity.jpg)
+<img src="/images/activity.jpg" alt="activity" width="500">
 
 ### Диаграмма классов
+
 Диаграмма классов для системы.
 
-![Диаграмма классов](/images/class.jpg)
+<img src="/images/class.jpg" alt="class" width="700">
 
 
